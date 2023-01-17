@@ -1,1 +1,1 @@
-# tcc-analise-acoes-python
+# Smart Stock Prediction
